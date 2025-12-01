@@ -4,7 +4,7 @@ Welcome to the "Awesome ChatGPT Prompts" repository! While this collection was o
 
 In this repository, you will find a variety of prompts that can be used with ChatGPT and other AI chat models. We encourage you to [add your own prompts](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md) to the list, and to use AI to help generate new prompts as well.
 
-To get started, simply select a prompt from the repository (titled "Prompts.csv") and use the prompts as input for your preferred AI chat model. You can also use the prompts in this file as inspiration for creating your own.
+To get started, simply select a prompt from the repository (file titled "Prompts.csv") and use the prompts as input for your preferred AI chat model. You can also use the prompts in this file as inspiration for creating your own.
 
 Hope you find these prompts useful!
 
